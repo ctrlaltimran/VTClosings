@@ -1,1 +1,0 @@
-import{t as e}from"./rsc-bqyjK97z.js";import{t}from"./framework~index~layout~page~app-page-cache-render~app-page-cache~app-route-handler-dispatch-euTdYXWf.js";var n=e(()=>{throw Error(`Unexpectedly client reference export 'HomePage' is called on server`)},`8883775d9383`,`HomePage`),r=t();function i(){return(0,r.jsx)(n,{})}export{i as default};
